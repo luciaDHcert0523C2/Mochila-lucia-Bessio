@@ -1,0 +1,16 @@
+CHEATSHEET GIT GITHUB
+git init: sirve para inicializar el repositorio
+git status: lista un estado actual del repositorio con lista de archivos modificados o agregados
+git checkout <nameBranch/tagname>: cambiar de branch (cambia la rama)
+git merge <nameBranch>: une el branch actual con el especificado
+git pull origin <nameBranch>: busca los cambios nuevos y actualiza el repositorio
+git rm <archivo>: borrar un archivo del repositorio
+git fetch: verifica cambios en el repositorio online con el local
+git pull origin <nameBranch>: busca los cambios nuevos y actualiza el repositorio
+git remote -v: muestra lista repositorios
+git remote rm <name/origin>: remover repositorio
+git remote add origin <url>: agregar repositorio remoto
+git log: muestra los logs de los commits
+git push <origien> <branch>: subimos al repositorio
+git commit -m "descripción de lo que se hizo": Cargar en el HEAD los cambios realizados
+git add .   : Añadimos todos los archivos para el commit
