@@ -1,0 +1,10 @@
+LAS DIRECCIONES DE MI MÁQUINA VIRTUAL
+
+-La IP privada de mi VM es: 10.0.0.10
+-La IP pública de mi Vm es: 192.97.176.139
+
+La dirección MAC de mi VM es: 05:00:28:d4:54:3e
+
+¿Es diferente a la IP pública y privada de nuestra máquina host?
+
+La IP pública si es la misma en ambas máquinas, pero la IP privada es diferente en mi maquina host en comparación de la IP de mi máquina vitual.
